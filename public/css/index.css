@@ -1,0 +1,73 @@
+#cuerpo {
+    background-color: #FF2A00;
+}
+
+#contenedor1{
+    height: 510px;
+    
+}
+
+#ensayo{
+    margin: 150px;
+}
+#ensayo2{
+    margin: -680px;
+}
+#ensayo3{
+    margin: -1280px;
+}
+
+#titulo{
+    color: beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2cm;
+    font-weight: bold;
+}
+
+#titulo2{
+    color: #FF2A00;
+    font-size: 20px;
+    font-weight: bold;
+}
+#menu2{
+    background: #FF2A00;
+}
+#a1 {
+    color: beige;
+}
+
+#principal {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#seccion1{
+    margin: 80px
+}
+
+#fondo{
+    background: #DDDDDD ;
+}
+
+#ensayo1{
+    margin: -70px;
+}
+
+#titulo3{
+    color: beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1cm;
+    font-weight: bold;
+}
+#footer{
+    padding: 80px 0;
+    text-align: center;
+    color: #DDDDDD;
+}
+
+#footer a:hover{
+    color: #DDDDDD;
+}
+
+#footer .list-inline .list-inline-item{
+    padding: 10px 15px;
+}
